@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Bicycle annotated</folder>
+	<filename>20220821_09_19_53_009_000_hZQaKn4zVMT2wlTW9KEEaSSmUWr1_F_2592_1944 (1).jpg</filename>
+	<path>E:\dataçluster_work\dataset\three task\Bicycle annotated\20220821_09_19_53_009_000_hZQaKn4zVMT2wlTW9KEEaSSmUWr1_F_2592_1944 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1944</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymin>234</ymin>
+			<xmax>1486</xmax>
+			<ymax>1918</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1318</xmin>
+			<ymin>138</ymin>
+			<xmax>1944</xmax>
+			<ymax>1550</ymax>
+		</bndbox>
+	</object>
+</annotation>
