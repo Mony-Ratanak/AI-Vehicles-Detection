@@ -19,5 +19,7 @@ This repository demonstrates how to use a YOLO-based image classification model.
    ```bash
    pip install ultralytics
 3. **Run the Script**
-Execute the script: python prediction.py
+Execute the script:
+   ```bash
+   python prediction.py
 
